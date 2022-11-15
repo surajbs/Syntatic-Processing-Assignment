@@ -1,6 +1,6 @@
 # SyntaticProcessing
 
-## Problem Statement: 
+## Problem Statement : 
 
 let’s consider a hypothetical example of a health tech company called ‘BeHealthy’. Suppose ‘BeHealthy’ aims to connect the medical communities with millions of patients across the country. 
 
@@ -25,7 +25,7 @@ Suppose you have been given such a data set in which a lot of text is written re
  
 But, note that it is not explicitly mentioned in the dataset about the diseases and their treatment, but somehow, you can build an algorithm to map the diseases and their respective treatment.
 
-### Below mentioned are the Steps Followed:
+### Below mentioned are the Steps Followed :
 There are eight major tasks are performed to complete the assignment. They are as follows:
 
     1. Data preprocessing.
